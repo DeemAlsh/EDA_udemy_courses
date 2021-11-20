@@ -35,7 +35,4 @@ The dataset contains 3679 observations with 12 features for each. A feature incl
 - Matplotlib and Seaborn for plotting
 
 ## Communication
-In addition to the slides and visuals presented, [Tanzania Waterpoints](https://public.tableau.com/profile/arjun#!/vizhome/TanzaniaWater/TanzaniaWaterpoints) will be embedded on my personal website and blog.
-
-<img src="dashboard.png" width=500>
 
