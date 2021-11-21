@@ -35,4 +35,4 @@ The dataset contains 3679 observations with 12 features for each. A feature incl
 - Matplotlib and Seaborn for plotting
 
 ## Communication
-
+{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEwTJWuqPc","i":"GNIpe_h0TYgtisiL4huilQ","b":1637441930404,"A":[{"A?":"I","A":108,"B":705.8451045262055,"D":1122.244807882981,"C":575.3681067213872,"a":{"B":{"A":{"A":"MAEwUPM3J8E","B":1},"B":{"A":-5.684341886080802e-14,"B":-1.1368683772161603e-13,"D":1122.2448078829811,"C":575.3681067213873}}}}],"B":1920,"C":1080}
